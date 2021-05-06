@@ -1,0 +1,11 @@
+a=int(input("Enter the year: "))
+print("The age of the person:{}".format(2021-a))
+
+a=int(input("Enter the value: "))
+b=int(input("Enter the value: "))
+print("a+b:{}".format(a+b))
+print("a-b:{}".format(a-b))
+print("a*b:{}".format(a*b))
+print("a/b:{}".format(a/b))
+print("a%b:{}".format(a%b))
+print("a//b:{}".format(a//b))
